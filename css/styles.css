@@ -37,8 +37,8 @@ body{
     color: var(--accent-color);
 
 }
-.logo>span:hover,
-.logo>span:focus {
+.logo-start:hover,
+.logo-start:focus {
     color: var(--hover-color);
 }
 .logo-end{
