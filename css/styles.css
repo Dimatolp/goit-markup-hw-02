@@ -21,6 +21,7 @@ body{
     
     .list {
         list-style: none;
+        
     }
 
 /* Логотип */
@@ -143,6 +144,7 @@ color: var(--accent-color);
 }
 .section-team-color{
     background-color: var(--primary-color);
+    
 }
 .team-name{
     font-weight: 500;
@@ -217,8 +219,11 @@ color: var(--accent-color);
     
         font-size: 16px;
         line-height: 1.88;
-        color: var(--secondary-text-color);;
+        color: var(--secondary-text-color);
         
+        
+    }
+    .link-decoration{
+        text-decoration: none;
+    }
     
-        
-}
